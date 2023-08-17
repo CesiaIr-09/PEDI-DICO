@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(2, 2, 2);
+}
+.contenedor {
+    display: flex;
+
+}
+
+.txt-1 {
+    margin: 30px;
+    text-align: center;
+    color: rgb(11, 34, 208);
+}
+
+.txt-2  {
+    margin: 0px 25px;
+    text-align: center;
+    color: rgba(252, 7, 199, 0.764);
+}
+
+.txt-3 {
+    margin: 30px;
+    text-align: center;
+    color:  rgb(11, 34, 208);
+}
+
+.txt-4 {
+    margin: 0px 25px;
+    text-align: center;
+    color: rgba(252, 7, 199, 0.764);
+}
+
+.txt-5 {
+    margin: 10px 25px;
+    text-align: center;
+    color: rgba(252, 7, 199, 0.764);
+}
+
+.txt-6 {
+    margin: 25px;
+    text-align: center;
+    background: linear-gradient(1330deg,
+    #0b0a0b,
+    rgba(23, 185, 196, 0.767),
+    #070d0f27   
+    );
+    border-radius: 10px;
+    color: white;
+    font-size: 37px;
+    padding: 16px 24px;
+    cursor: pointer;
+    transition: .3s; 
+    text-align: center;
+}
+.txt-7 {
+    margin: 30px 25px;
+    text-align: center;
+    color: rgb(0, 229, 254);
